@@ -4,8 +4,7 @@ sensors-lxpanel-plugin-ebuild
 Ebuild, manifest and patch to allow installation of Dan Amlund Thomsen's lm-sensors plugin for lxpanel
 on Funtoo/Gentoo.
 
-- here is his git for it: https://github.com/danamlund/sensors-lxpanel-plugin (ebuild d/l's source auto-
-matically from his web page).
+- here is his git for it: https://github.com/danamlund/sensors-lxpanel-plugin (ebuild d/l's source automatically from his web page).
 
 I was missing the fan speed from my now discarded Gnome panel, thanks to Mr. Thomsen I now am missing 
 only the bloat.
