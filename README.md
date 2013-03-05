@@ -20,11 +20,11 @@ directory also and place the distdir.patch in the files directory.
 Dependencies
 ============
 Roughly the following per Mr. Thomsen:
-  lxpanel
-  glib2*
-  gtk+-2*
-  libsensors4 (but worked fine with my lm_sensors-3.3.3-r2)
-  menu-cache
+lxpanel
+glib2*
+gtk+-2*
+libsensors.so.4 (worked fine with my lm_sensors-3.3.3-r2)
+menu-cache
   
 Installation
 ============
